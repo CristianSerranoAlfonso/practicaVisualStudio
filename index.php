@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        $saludo = "Hola, esta es la segunda frase para probar git";
+        $saludo = "Hola, esta es una frase cambiada desde github";
         ?>
         <?= $saludo ?>
     </body>
